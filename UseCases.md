@@ -1,4 +1,4 @@
-#User Story:
+#User Story: 
 - As a host, I want to create quiz question.
 - As a contestant, I want to join a quiz game.
 
