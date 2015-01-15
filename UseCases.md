@@ -2,7 +2,7 @@
 - As a host, I want to create quiz question.
 - As a contestant, I want to join a quiz game.
 
-#Informal Use Case
+#Informal Use Case:
 -UC Name:  Join a Quiz
 Description: Student enters the game (or game site) and identifies himself.
 Then he selects the  game he want to join. The game adds a user as a contestant.
